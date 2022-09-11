@@ -1,4 +1,4 @@
-## My sublime text config
+## My [Sublime Text](https://www.sublimetext.com "Sublime Text") configuration files
 
 I like keeping my customizations to the minimum.
 
